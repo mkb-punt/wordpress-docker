@@ -1,0 +1,5 @@
+# exclude everything
+wp-content/storage/views/*
+
+# exception to the rule
+!wp-content/storage/views/.gitkeep
